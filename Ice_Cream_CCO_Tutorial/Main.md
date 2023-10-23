@@ -36,7 +36,7 @@ All of the machines in our ice cream plant play a specific 'role' in the process
 
 For the purposes of this tutorial, we are going to suppose that there are three machines in our production process, a mixer, the Mix-o-Max 1000, the churner, the Churn-Plex, and the freezer, the Freez-o-Flash. Can you create these instances in our ontology as instances of the class Material Artifact? From there, can you create the classes freezing, mixing, and churning functions, and assert that those instances of machines 'bear' instances of those three functions? The graph looks like this:
 
-![](Ice_Cream_CCO_Tutorial/diagram1.png)
+![](Ice_Cream_CCO_Tutorial/diagram1.jpg)
 
 Our full graph will look like this:
 
